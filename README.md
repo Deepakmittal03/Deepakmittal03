@@ -1,10 +1,10 @@
 # 💫 Hi 👋, I'm Deepak Mittal
-A passionate Data Scientist || Cyber analyst || UiUx Designer
+A passionate Data Scientist || Cyber analyst || UI/UX Designer
 
 Email Me 👉 ✉️ **deepakmittal9186@gamilcom** For Collaboration/Project or Anything Else. 😊😊
 
 - 🔭 **I’m currently working on:** Turning project ideas into full-stack applications
-- 🌱 **I’m currently learning:** Data Science, Machine kearing
+- 🌱 **I’m currently learning:** Data Science, Machine learing
 - 📫 **How to reach me:** deepakmittal9186@gmail.com
 - 😄 **Pronouns:** Deepak Mittal
 - ⚡ **Fun fact:** I like renting a space in people’s minds.

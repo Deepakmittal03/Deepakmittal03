@@ -6,7 +6,7 @@ Email Me 👉 ✉️ **deepakmittal9186@gamilcom** For Collaboration/Project or 
 - 🔭 **I’m currently working on:** Turning project ideas into full-stack applications
 - 🌱 **I’m currently learning:** Data Science, Machine learing
 - 📫 **How to reach me:** deepakmittal9186@gmail.com
-- 😄 **Pronouns:** Deepak Mittal
+- 😄 **Pronouns:** Deepak Mittal.
 - ⚡ **Fun fact:** I like renting a space in people’s minds.
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/deepak__mittal03) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/deepakmittal03) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/DeepakMittal03) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@deepakmittal) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:deepakmittal9186@gmail.com) 
